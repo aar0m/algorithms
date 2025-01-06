@@ -4,7 +4,7 @@
 ///                 Personal Project By Aaron Ramos 2025
 ///
 /// Recursive implementation of Euclids Algorithm, which finds the great-
-/// est common denominator of two inputs.
+/// est common divisor of two inputs.
 ///
 /// @euclids.py
 /// @author Aaron Ramos (ramosaaron2@gmail.com)
@@ -14,8 +14,8 @@
 import numpy as np
 
 # Find GCD given two inputs using Euclidʻs algorithm using recursion:
-# a = (q_0 * b) + r_0 ---> b = (q_1 * r) + r_1 until r_1 = 0;
-# then r is the greatest common denominator
+# 1. a = (q_0 * b) + r_0 ---> b = (q_1 * r) + r_1
+# 2. If r_1 = 0, then r is the greatest common denominator
 
 def rec_euclids(a, b):   
     if b == 0:
