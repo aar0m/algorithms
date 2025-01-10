@@ -1,6 +1,6 @@
 """
 ///
-///                 Ch.2 Graphs - Hierholzers Algorithm
+///                         Hierholzerʻs Algorithm
 ///                 Personal Project By Aaron Ramos 2025
 ///
 /// Implementation of Hierholzers Algorithm, which finds Eulerian circuits in directed graphs.

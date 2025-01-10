@@ -1,6 +1,6 @@
 """
 ///
-///                      Ch.1 What is an Algorithm?
+///                           Euclidʻs Algorithm
 ///                 Personal Project By Aaron Ramos 2025
 ///
 /// Recursive implementation of Euclids Algorithm, which finds the great-
